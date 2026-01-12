@@ -14,3 +14,99 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hola, soy Irving Ulises Hernández Miguel
+
+> *Breve frase que te represente como desarrollador/a. Ejemplo:*
+>
+> "Apasionado por aprender, construir y mejorar sistemas poco a poco."
+
+---
+
+## 🧑‍💻 Sobre mí
+
+* 🎓 Formación: **[Tu carrera / estudios]**
+* 💡 Intereses principales: **[Backend, Frontend, Data, DevOps, etc.]**
+* 🌱 Actualmente aprendiendo: **[Tecnologías actuales]**
+* 🎯 Objetivo profesional: **[Qué te gustaría lograr]**
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes
+
+* 🟢 **[Lenguaje 1]**
+* 🟢 **[Lenguaje 2]**
+* 🟢 **[Lenguaje 3]**
+
+### Frameworks / Librerías
+
+* 🔧 **[Framework 1]**
+* 🔧 **[Framework 2]**
+
+### Bases de datos
+
+* 🗄️ **[BD 1]**
+* 🗄️ **[BD 2]**
+
+### Otros
+
+* ⚙️ Git & GitHub
+* ⚙️ Linux / Windows / macOS
+* ⚙️ Docker / n8n / CI-CD *(opcional)*
+
+---
+
+## 📌 Proyectos destacados
+
+### 🔹 **Nombre del proyecto 1**
+
+* 📄 Descripción corta del proyecto.
+* 🛠️ Tecnologías usadas: **[tech stack]**
+* 🔗 Repositorio: [link]
+
+### 🔹 **Nombre del proyecto 2**
+
+* 📄 Descripción corta del proyecto.
+* 🛠️ Tecnologías usadas: **[tech stack]**
+* 🔗 Repositorio: [link]
+
+*(Agrega o elimina proyectos según necesites)*
+
+---
+
+## 📊 Estadísticas de GitHub *(opcional)*
+
+```markdown
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+```
+
+---
+
+## 🤝 Colaboración
+
+* 👀 Busco colaborar en: **[tipo de proyectos]**
+* 📚 Interesado en aprender sobre: **[temas]**
+* 🧩 Abierto a contribuir en módulos pequeños para ganar experiencia
+
+---
+
+## 📫 Contacto
+
+* 💼 LinkedIn: [tu link]
+* 📧 Email: [tu email]
+* 🌐 Portafolio: [si tienes]
+
+---
+
+## ✨ Extra (opcional)
+
+* 📝 Blog / Notas personales
+* 🎥 Canal / Recursos educativos
+* 🏆 Certificaciones
+
+---
+
+> *README en constante mejora 🚀*

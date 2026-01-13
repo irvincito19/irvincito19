@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 -->
 # 👋 Hola, soy Irving Ulises Hernández Miguel
 
-> *Breve frase que te represente como desarrollador/a. Ejemplo:*
->
-> "Apasionado por aprender, construir y mejorar sistemas poco a poco."
+> "Descifro problemas, escribo soluciones y me actualizo en el proceso. Iterando hacia la excelencia con cada línea de código."
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-* 🎓 Formación: **[Tu carrera / estudios]**
+* 🎓 Formación: Licenciatura en Informática / Maestría en Tecnología Informática Educativa
 * 💡 Intereses principales: **[Backend, Frontend, Data, DevOps, etc.]**
 * 🌱 Actualmente aprendiendo: **[Tecnologías actuales]**
 * 🎯 Objetivo profesional: **[Qué te gustaría lograr]**

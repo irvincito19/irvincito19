@@ -31,25 +31,25 @@ Here are some ideas to get you started:
 
 ### Lenguajes
 
-* 🟢 **[Lenguaje 1]**
-* 🟢 **[Lenguaje 2]**
-* 🟢 **[Lenguaje 3]**
+* 🟢 Java, JAvascript
+* 🟢 C, C++
+* 🟢 Python, PHP
 
 ### Frameworks / Librerías
 
-* 🔧 **[Framework 1]**
-* 🔧 **[Framework 2]**
+* 🔧 SpringBoot, Express.js
+* 🔧 Vue.js
 
 ### Bases de datos
 
-* 🗄️ **[BD 1]**
-* 🗄️ **[BD 2]**
+* 🗄️ MySQL
+* 🗄️ MongoDB
 
 ### Otros
 
 * ⚙️ Git & GitHub
 * ⚙️ Linux / Windows / macOS
-* ⚙️ Docker / n8n / CI-CD *(opcional)*
+* ⚙️ Docker / n8n / CI-CD
 
 ---
 

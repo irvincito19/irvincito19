@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 * ⚙️ Docker / n8n / CI-CD
 
 ---
-
+<!--
 ## 📌 Proyectos destacados
 
 ### 🔹 **Nombre del proyecto 1**
@@ -80,11 +80,13 @@ Here are some ideas to get you started:
 ```
 
 ---
+-->
 
 ## 🤝 Colaboración
+* 👀 Busco colaborar en: Desarrollo de APIs RESTful y microservicios que utilicen o proyectos que integren aplicaciones web (Spring Boot/Vue.js/Express.js) con servicios de Inteligencia Artificial, como chatbots, automatizaciones o herramientas de análisis de datos.
 
-* 👀 Busco colaborar en: **[tipo de proyectos]**
-* 📚 Interesado en aprender sobre: **[temas]**
+* 📚 Interesado en aprender sobre: Nuevos frameworks para el desarrollo web y la implementación de modelos de Machine Learning en el navegador, optimización de algoritmos mediante Matemáticas avanzadas y arquitecturas de software orientadas a IA.
+
 * 🧩 Abierto a contribuir en módulos pequeños para ganar experiencia
 
 ---
@@ -96,13 +98,13 @@ Here are some ideas to get you started:
 * 🌐 Portafolio: [si tienes]
 
 ---
-
+<!--
 ## ✨ Extra (opcional)
 
 * 📝 Blog / Notas personales
 * 🎥 Canal / Recursos educativos
 * 🏆 Certificaciones
-
+-->
 ---
 
 > *README en constante mejora 🚀*

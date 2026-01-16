@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Lenguajes
 
-* 🟢 Java, JAvascript
+* 🟢 Java, Javascript
 * 🟢 C, C++
 * 🟢 Python, PHP
 
@@ -91,8 +91,8 @@ Here are some ideas to get you started:
 
 ## 📫 Contacto
 
-* 💼 LinkedIn: [tu link]
-* 📧 Email: [tu email]
+* 💼 LinkedIn: [https://www.linkedin.com/in/irvinguhm/]
+* 📧 Email: [irving.u.h.m@gmail.com]
 * 🌐 Portafolio: [si tienes]
 
 ---

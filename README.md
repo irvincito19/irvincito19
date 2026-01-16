@@ -95,8 +95,8 @@ Here are some ideas to get you started:
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/irvinguhm/]
 * 📧 Email: [irving.u.h.m@gmail.com]
-* 🌐 Portafolio: [si tienes]
-
+<!--* 🌐 Portafolio: [si tienes]
+-->
 ---
 <!--
 ## ✨ Extra (opcional)

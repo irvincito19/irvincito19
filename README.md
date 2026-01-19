@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 * 🎓 Formación: Licenciatura en Informática / Maestría en Tecnología Informática Educativa
 * 💡 Intereses principales: Backend, Frontend, Data, DevOps, I.A. Matemáticas
-* 🌱 Actualmente aprendiendo: SpringBoot, Vue.js, Express.js, Docker
+* 🌱 Actualmente aprendiendo: SpringBoot, Vue.js, Express.js, Docker , Git
 * 🎯 Objetivo profesional: Aplicar mi formación única (Informática, Tecnología Educativa y Matemáticas) en un rol de Desarrollador de Software o Ingeniero de Datos que valore la lógica sólida, la capacidad analítica y la creación de soluciones con impacto. Mi meta es ser un puente entre la teoría y la práctica, construyendo la próxima generación de aplicaciones web inteligentes y basadas en datos.
 
 ---
